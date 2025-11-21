@@ -1,6 +1,6 @@
 # Caso Práctico: **Luces y Sombras del Uso de LLMs en el Mantenimiento del Software**
 
-Bienvenido al caso práctico donde exploraremos cómo los **Modelos de Lenguaje (LLMs)** pueden ayudar —y a veces dificultar— el **mantenimiento de software**.
+Bienvenido al caso práctico donde exploraremos cómo los **Modelos de Lenguaje (LLMs)** pueden ayudar y a veces dificultar el **mantenimiento de software**.
 
 ## 🧩 Escenario
 
